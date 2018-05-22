@@ -7,3 +7,7 @@ This template helps you to create swift files in Xcode include `PRODUCT_NAMEView
 1. Download `MMYMVVMTemplate.xctemplate`
 2. Copy folder in `~/Library/Developer/Xcode/Templates/File Templates/`
 3. Enjoy the template!
+
+# Example
+
+![ViewController Example](https://github.com/kidd0717/MMYMVVMTemplate/blob/master/ViewControllerExample.png)
